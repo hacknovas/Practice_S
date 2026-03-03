@@ -5,5 +5,6 @@ int main()
 {
     cout << "Searching Algo" << endl;
     cout << "Sorting Algorithm" << endl;
+    cout << "Partition Algo" << endl;
     return 0;
 }
