@@ -6,5 +6,6 @@ int main()
     cout << "Searching Algo" << endl;
     cout << "Sorting Algorithm" << endl;
     cout << "Partition Algo" << endl;
+    cout << "Tree DS" << endl;
     return 0;
 }
