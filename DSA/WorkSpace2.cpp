@@ -7,5 +7,6 @@ int main()
     cout << "Sorting Algorithm" << endl;
     cout << "Partition Algo" << endl;
     cout << "Tree DS" << endl;
+    cout << "Tree Searching Algo" << endl;
     return 0;
 }
