@@ -8,5 +8,6 @@ int main()
     cout << "Partition Algo" << endl;
     cout << "Tree DS" << endl;
     cout << "Tree Searching Algo" << endl;
+    cout << "Tree Searching Algo - DFS / BFS" << endl;
     return 0;
 }
